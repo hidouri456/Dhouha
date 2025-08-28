@@ -1,5 +1,14 @@
 👩‍💻 Dhouha Hidouri
 
+# 👩‍💻 Dhouha Hidouri – Portfolio
+
+Bienvenue sur mon GitHub !  
+Je suis Développeuse Full-Stack spécialisée en **React, NodeJS, Python, FastAPI, Laravel**.  
+
+👉 Découvrez mon portfolio complet ici :  
+[📂 Mon Portfolio Notion](https://www.notion.so/25d69bb52489809d9dcbe59673f32183?v=25d69bb5248980c3a5cf000cb6ae1967&source=copy_link)
+
+
 Ingénieure en Génie Logiciel | Développeuse Full-Stack
 
 🚀 Passionnée par le développement web et logiciel, je conçois et réalise des solutions robustes et évolutives en combinant front-end et back-end.
